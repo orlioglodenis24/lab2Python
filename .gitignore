@@ -19,6 +19,3 @@ build/
 # OS
 .DS_Store
 
-# Screenshots / temp
-*.png
-*.jpg
